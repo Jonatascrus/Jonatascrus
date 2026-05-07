@@ -46,19 +46,7 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 
 ---
 
-## 🌟 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonatascrus&repo=NOME_DO_PROJETO_1&theme=tokyonight&hide_border=true)](https://github.com/Jonatascrus/NOME_DO_PROJETO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonatascrus&repo=NOME_DO_PROJETO_2&theme=tokyonight&hide_border=true)](https://github.com/Jonatascrus/NOME_DO_PROJETO_2)
-
-
-
----
-
-## 📊 GitHub Stats
-
-![Jonatas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonatascrus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatascrus&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
