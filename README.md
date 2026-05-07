@@ -51,7 +51,7 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonatascrus&repo=NOME_DO_PROJETO_1&theme=tokyonight&hide_border=true)](https://github.com/Jonatascrus/NOME_DO_PROJETO_1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonatascrus&repo=NOME_DO_PROJETO_2&theme=tokyonight&hide_border=true)](https://github.com/Jonatascrus/NOME_DO_PROJETO_2)
 
-> 💡 *Substitua `NOME_DO_PROJETO_1` e `NOME_DO_PROJETO_2` pelos nomes dos seus repositórios reais!*
+
 
 ---
 
@@ -64,6 +64,6 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 
 ## 📫 Onde Me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-cruz-023331300/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siqueira.cruzz/)
