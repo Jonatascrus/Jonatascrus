@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=8C52FF&label=SYSTEM+VISITS" />
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&label=FOLLOWERS&color=4A00E0" />
-<img src="https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&logo=github&label=STARS&color=8C52FF" />
+<img src="https://komarev.com/ghpvc/?username=github.com/jonatascrus&style=for-the-badge&color=8C52FF&label=SYSTEM+VISITS" />
+<img src="https://img.shields.io/github/followers/github.com/jonatascrus?style=for-the-badge&logo=github&label=FOLLOWERS&color=4A00E0" />
+<img src="https://img.shields.io/github/stars/github.com/jonatascrus?style=for-the-badge&logo=github&label=STARS&color=8C52FF" />
 
 </div>
 
