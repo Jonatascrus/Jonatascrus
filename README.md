@@ -1,5 +1,3 @@
-# ⚡ JONATAS // SYSTEM ONLINE
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:4A00E0,100:8C52FF&height=220&section=header&text=JONATAS%20CRUZ&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEM%20BUILDER&descAlignY=58&descSize=18" />
