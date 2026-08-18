@@ -18,62 +18,82 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     JONATAS.CORE v2.0                       ║
+║                     JONATAS.CORE v3.0                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ STATUS       :: ONLINE                                      ║
 ║ ROLE         :: Full Stack Developer                        ║
 ║ LOCATION     :: Brazil 🇧🇷                                  ║
-║ SPECIALTY   :: Web Development / Software Engineering       ║
+║ FOCUS        :: Web Development & Software Engineering      ║
 ║ MODE         :: BUILDING                                    ║
-║ SYSTEM       :: Always Learning                             ║
+║ LEARNING     :: ALWAYS                                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## `> SOBRE_MIM`
+---
+
+## `> ABOUT_ME`
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```text
-Olá, Pessoal!
+### 👨‍💻 Olá, eu sou Jonatas!
 
-Sou Jonatas, desenvolvedor apaixonado por tecnologia,
-programação e criação de soluções digitais.
+Sou desenvolvedor focado em **desenvolvimento web e construção de sistemas**, com experiência em projetos utilizando tecnologias de frontend, backend, bancos de dados e APIs.
 
-Minha jornada começou com desenvolvimento web e
-atualmente estou expandindo minhas habilidades para
-o ecossistema Full Stack.
+Minha jornada começou no desenvolvimento web e atualmente estou expandindo meu conhecimento para o ecossistema **Full Stack** e **Software Engineering**.
 
-Gosto de transformar ideias em produtos reais,
-interfaces modernas e sistemas funcionais.
+Gosto de transformar ideias em:
 
-Meu objetivo não é apenas escrever código.
+* 🚀 Aplicações web
+* ⚙️ APIs e sistemas backend
+* 🎨 Interfaces modernas
+* 🤖 Automações
+* 🗄️ Sistemas com banco de dados
+* 💡 Produtos digitais
 
-É construir sistemas.
-```
+Meu objetivo é ir além de simplesmente escrever código.
 
-### `CURRENT_MISSION`
+> **I build systems, not just interfaces.**
 
-> **"Transformar ideias em experiências digitais modernas, rápidas e inteligentes."**
+<br clear="right"/>
 
 ---
 
-## `> TECH_STACK`
+## `> CURRENT_MISSION`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     CURRENT MISSION                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  → Evoluir como Full Stack Developer                        ║
+║  → Aprofundar TypeScript                                    ║
+║  → Construir aplicações Full Stack                          ║
+║  → Melhorar arquitetura de APIs                             ║
+║  → Explorar Cloud & DevOps                                  ║
+║  → Criar produtos próprios                                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `> TECH_STACK`
 
 <div align="center">
 
-### `LANGUAGES`
+### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&theme=dark" />
 
-### `FRAMEWORKS & LIBRARIES`
+### `BACKEND`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,express,vite,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
 
-### `DATABASES`
+### `DATABASE`
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase,prisma&theme=dark" />
 
-### `DEVOPS & TOOLS`
+### `TOOLS & DEVOPS`
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,figma,vscode&theme=dark" />
 
@@ -81,91 +101,130 @@ Meu objetivo não é apenas escrever código.
 
 ---
 
-## `> TOOLBOX`
+# `> DEVELOPMENT_FOCUS`
 
 <table align="center">
 <tr>
-<td align="center" width="180">
 
-### 🎨 Frontend
+<td align="center" width="220">
 
+### 🎨 FRONTEND
+
+```text
 HTML5
 CSS3
 JavaScript
 TypeScript
 React
 Next.js
+Vite
+```
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 
-### ⚙️ Backend
+### ⚙️ BACKEND
 
+```text
 Node.js
 Express
 Python
 REST APIs
 Authentication
+Sessions
+```
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 
-### 🗄️ Database
+### 🗄️ DATABASE
 
+```text
 PostgreSQL
 Supabase
 Prisma
 Firebase
+MongoDB
+```
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 
-### 🚀 Infrastructure
+### 🚀 INFRASTRUCTURE
 
+```text
 Git
 GitHub
 Docker
 Linux
 Vercel
+Cloud
+```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# `> PROJECT_DATABASE`
+# `> FEATURED_PROJECT`
 
 <div align="center">
+
+## 🟣 TECNOPLACE
+
+### `TECH MARKETPLACE`
+
+Marketplace tecnológico focado na compra e venda de componentes de computador.
+
+<br>
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-8C52FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-In%20Development-4A00E0?style=for-the-badge" />
+
+</div>
+
+### `FEATURES`
+
+* 🔎 Busca de produtos
+* 🛒 Carrinho de compras
+* ⭐ Sistema de avaliações
+* 🤖 Chatbot
+* ♿ Recursos de acessibilidade
+* 📱 Design responsivo
+* 🧩 Componentização de interface
+
+### `STACK`
+
+```text
+HTML
+CSS
+JavaScript
+Supabase
+```
+
+<div align="center">
+
+<!-- COLOQUE AQUI OS LINKS QUANDO TIVER -->
+
+`[ LIVE DEMO ]`    `[ SOURCE CODE ]`
+
+</div>
+
+---
+
+# `> OTHER_PROJECTS`
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🟣 TECNOPLACE
-
-Marketplace tecnológico focado na compra e venda de componentes de computador.
-
-**Features**
-
-* 🔎 Busca de produtos
-* 🛒 Carrinho
-* ⭐ Avaliações
-* 🤖 Chatbot
-* ♿ Acessibilidade
-* 📱 Interface responsiva
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-### ⚡ EVER CORP
+## ⚡ EVER CORP
 
 Projeto de presença digital e assessoria de marketing com foco em uma experiência visual moderna.
 
@@ -181,15 +240,11 @@ Projeto de presença digital e assessoria de marketing com foco em uma experiên
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
-### 🤖 AI HANGMAN
+## 🤖 AI HANGMAN
 
-Jogo da Forca desenvolvido em Python com integração a inteligência artificial.
+Jogo da Forca desenvolvido em Python com integração com inteligência artificial para geração de palavras.
 
 **Features**
 
@@ -202,51 +257,71 @@ Jogo da Forca desenvolvido em Python com integração a inteligência artificial
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
-### 🌐 FULL STACK SYSTEMS
+## 🌐 FULL STACK APPLICATIONS
 
-Construção de aplicações completas utilizando frontend, APIs, banco de dados e autenticação.
+Desenvolvimento de aplicações completas envolvendo frontend, backend, APIs, autenticação e banco de dados.
 
 `Next.js` `Node.js` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+## 🤖 AUTOMATION
+
+Projetos utilizando Python para automação de tarefas e integração com APIs.
+
+`Python` `APIs` `Automation`
 
 </td>
 
 </tr>
 </table>
 
-</div>
+---
+
+# `> WHAT_I_BUILD`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  FRONTEND                                                    │
+│  └── Interfaces modernas, responsivas e interativas         │
+│                                                              │
+│  BACKEND                                                     │
+│  └── APIs, autenticação, sessões e regras de negócio         │
+│                                                              │
+│  DATABASE                                                    │
+│  └── PostgreSQL, Supabase e modelagem de dados               │
+│                                                              │
+│  AUTOMATION                                                   │
+│  └── Scripts Python e integração com APIs                     │
+│                                                              │
+│  FULL STACK                                                   │
+│  └── Aplicações completas do frontend ao banco               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## `> CURRENT_OBJECTIVES`
+# `> CURRENTLY_LEARNING`
 
-```bash
-jonatas@dev-machine:~$ ./mission_control.sh
+<div align="center">
 
-[████████████████████████████████] 100%
+<img src="https://img.shields.io/badge/TypeScript-LEARNING-8C52FF?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-LEARNING-4A00E0?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-LEARNING-050510?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-LEARNING-8C52FF?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_%26_DevOps-EXPLORING-4A00E0?style=for-the-badge" />
 
-MISSION 01 :: Evoluir como Full Stack Developer
-STATUS    :: IN_PROGRESS
-
-MISSION 02 :: Aprofundar conhecimentos em TypeScript
-STATUS    :: IN_PROGRESS
-
-MISSION 03 :: Construir projetos Full Stack
-STATUS    :: IN_PROGRESS
-
-MISSION 04 :: Dominar arquitetura de APIs
-STATUS    :: IN_PROGRESS
-
-MISSION 05 :: Aprender mais sobre Cloud & DevOps
-STATUS    :: QUEUED
-
-MISSION 06 :: Criar produtos próprios
-STATUS    :: ALWAYS_RUNNING
-
-> SYSTEM MESSAGE:
-> "There is always another level."
-```
+</div>
 
 ---
 
@@ -256,7 +331,7 @@ STATUS    :: ALWAYS_RUNNING
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatascrus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050510&title_color=8C52FF&icon_color=8C52FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasccrus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050510&title_color=8C52FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascrus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050510&title_color=8C52FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -270,7 +345,7 @@ STATUS    :: ALWAYS_RUNNING
 
 ---
 
-## `> ACTIVITY_GRAPH`
+# `> CONTRIBUTION_GRAPH`
 
 <div align="center">
 
@@ -280,23 +355,19 @@ STATUS    :: ALWAYS_RUNNING
 
 ---
 
-# `> ACHIEVEMENTS`
+# `> OPEN_TO`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joantascrus&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-# `> CONTRIBUTION_PROTOCOL`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jonatascrus/jonatascrus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  💼 Junior Developer Opportunities                           │
+│  🤝 Freelance Projects                                      │
+│  🚀 Collaboration                                           │
+│  📚 Open Source                                             │
+│  💡 New Projects                                            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -312,7 +383,7 @@ STATUS    :: ALWAYS_RUNNING
 <img src="https://img.shields.io/badge/LinkedIn-050510?style=for-the-badge&logo=linkedin&logoColor=8C52FF" />
 </a>
 
-<a href="https://www.instagram.com/https://www.instagram.com/siqueira.cruzz//">
+<a href="https://www.instagram.com/SEU_INSTAGRAM/">
 <img src="https://img.shields.io/badge/Instagram-050510?style=for-the-badge&logo=instagram&logoColor=8C52FF" />
 </a>
 
@@ -326,14 +397,13 @@ STATUS    :: ALWAYS_RUNNING
 
 <div align="center">
 
-### `SYSTEM MESSAGE`
-
 ```text
 ╭──────────────────────────────────────────────╮
 │                                              │
-│     BUILD  •  LEARN  •  CREATE  •  REPEAT   │
+│       BUILD  •  LEARN  •  CREATE             │
 │                                              │
-│       "Code is the interface to ideas."     │
+│          THERE IS ALWAYS ANOTHER             │
+│                 LEVEL.                       │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
