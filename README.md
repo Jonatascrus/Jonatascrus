@@ -37,20 +37,18 @@
 
 ### 👨‍💻 Olá, eu sou Jonatas!
 
-Sou desenvolvedor focado em **desenvolvimento web e construção de sistemas**, com experiência em projetos utilizando tecnologias de frontend, backend, bancos de dados e APIs.
+Desenvolvedor full stack com experiência real de ponta a ponta: já construí projetos de frontend, backend, banco de dados e integrações de API para clientes reais — não só protótipos de portfólio.
 
-Minha jornada começou no desenvolvimento web e atualmente estou expandindo meu conhecimento para o ecossistema **Full Stack** e **Software Engineering**.
+Meu trabalho principal hoje é a **Ever Corp**, uma agência de marketing digital e produção audiovisual, onde sou o desenvolvedor responsável por todo o site: frontend, backend e design. Também faço projetos freelance sob demanda, como landing pages para negócios locais.
 
 Gosto de transformar ideias em:
 
-* 🚀 Aplicações web
+* 🚀 Aplicações web completas
 * ⚙️ APIs e sistemas backend
-* 🎨 Interfaces modernas
+* 🎨 Interfaces modernas e animadas
 * 🤖 Automações
 * 🗄️ Sistemas com banco de dados
 * 💡 Produtos digitais
-
-Meu objetivo é ir além de simplesmente escrever código.
 
 > **I build systems, not just interfaces.**
 
@@ -101,115 +99,43 @@ Meu objetivo é ir além de simplesmente escrever código.
 
 ---
 
-# `> DEVELOPMENT_FOCUS`
-
-<table align="center">
-<tr>
-
-<td align="center" width="220">
-
-### 🎨 FRONTEND
-
-```text
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Next.js
-Vite
-```
-
-</td>
-
-<td align="center" width="220">
-
-### ⚙️ BACKEND
-
-```text
-Node.js
-Express
-Python
-REST APIs
-Authentication
-Sessions
-```
-
-</td>
-
-<td align="center" width="220">
-
-### 🗄️ DATABASE
-
-```text
-PostgreSQL
-Supabase
-Prisma
-Firebase
-MongoDB
-```
-
-</td>
-
-<td align="center" width="220">
-
-### 🚀 INFRASTRUCTURE
-
-```text
-Git
-GitHub
-Docker
-Linux
-Vercel
-Cloud
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
 # `> FEATURED_PROJECT`
 
 <div align="center">
 
-## 🟣 TECNOPLACE
+## ⚡ EVER CORP
 
-### `TECH MARKETPLACE`
+### `DIGITAL AGENCY WEBSITE — FULL STACK`
 
-Marketplace tecnológico focado na compra e venda de componentes de computador.
+Site institucional completo para agência brasileira de marketing digital e produção audiovisual. Responsável por toda a stack: frontend, backend, banco de dados e design.
 
 <br>
 
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-8C52FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-In%20Development-4A00E0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Live%20%7C%20In%20Iteration-4A00E0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Node%20%7C%20PostgreSQL-8C52FF?style=for-the-badge" />
 
 </div>
 
 ### `FEATURES`
 
-* 🔎 Busca de produtos
-* 🛒 Carrinho de compras
-* ⭐ Sistema de avaliações
-* 🤖 Chatbot
-* ♿ Recursos de acessibilidade
-* 📱 Design responsivo
-* 🧩 Componentização de interface
+* 📝 Formulário de captação multi-etapas (7-8 passos), com validação e navegação por teclado
+* ⚙️ API REST própria em Node.js/Express + PostgreSQL para gerenciar leads
+* 📊 Integração com Google Sheets para os dados de leads
+* 🗄️ Persistência de sessão via `connect-pg-simple`
+* 📸 Integração com Instagram Graph API para prova social em tempo real
+* ✨ Sistema de animações scroll-triggered com `IntersectionObserver`, suporte a stagger e `prefers-reduced-motion`
+* 🔄 Carrossel de logos de clientes com auto-scroll infinito
+* 📱 Design 100% responsivo
 
 ### `STACK`
 
 ```text
-HTML
-CSS
-JavaScript
-Supabase
+HTML / CSS / JavaScript
+Node.js / Express
+PostgreSQL (Supabase)
 ```
 
 <div align="center">
-
-<!-- COLOQUE AQUI OS LINKS QUANDO TIVER -->
 
 `[ LIVE DEMO ]`    `[ SOURCE CODE ]`
 
@@ -224,36 +150,35 @@ Supabase
 
 <td width="50%">
 
-## ⚡ EVER CORP
+## 🟣 TECNOPLACE
 
-Projeto de presença digital e assessoria de marketing com foco em uma experiência visual moderna.
+Marketplace tecnológico focado na compra e venda de componentes de computador.
 
 **Features**
 
-* 🎨 UI personalizada
-* ✨ Animações
-* 📊 Integração com Google Sheets
-* 📝 Formulários
-* 📱 Responsividade
+* 🔎 Busca de produtos
+* 🛒 Carrinho de compras
+* ⭐ Sistema de avaliações
+* 🤖 Chatbot
+* ♿ Acessibilidade
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Supabase`
 
 </td>
 
 <td width="50%">
 
-## 🤖 AI HANGMAN
+## 🏡 THIAGO DERRICO IMÓVEIS
 
-Jogo da Forca desenvolvido em Python com integração com inteligência artificial para geração de palavras.
+Landing page freelance para imobiliária especializada em condomínios fechados.
 
 **Features**
 
-* 🧠 Geração de palavras
-* 🎮 Sistema de tentativas
-* 🔤 Interface interativa
-* ⚙️ Backend Python
+* 🎨 Identidade visual sob medida
+* 📱 Responsividade
+* 🎯 Foco em conversão de leads
 
-`Python` `Groq API`
+`HTML` `CSS` `JavaScript`
 
 </td>
 
@@ -263,11 +188,17 @@ Jogo da Forca desenvolvido em Python com integração com inteligência artifici
 
 <td width="50%">
 
-## 🌐 FULL STACK APPLICATIONS
+## 🤖 AI HANGMAN
 
-Desenvolvimento de aplicações completas envolvendo frontend, backend, APIs, autenticação e banco de dados.
+Jogo da Forca em Python com integração de IA para geração de palavras.
 
-`Next.js` `Node.js` `PostgreSQL`
+**Features**
+
+* 🧠 Geração de palavras via IA
+* 🎮 Sistema de tentativas
+* 🔤 Interface interativa
+
+`Python` `Groq API`
 
 </td>
 
@@ -275,7 +206,7 @@ Desenvolvimento de aplicações completas envolvendo frontend, backend, APIs, au
 
 ## 🤖 AUTOMATION
 
-Projetos utilizando Python para automação de tarefas e integração com APIs.
+Scripts em Python para automação de tarefas e integração com APIs.
 
 `Python` `APIs` `Automation`
 
@@ -283,31 +214,6 @@ Projetos utilizando Python para automação de tarefas e integração com APIs.
 
 </tr>
 </table>
-
----
-
-# `> WHAT_I_BUILD`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  FRONTEND                                                    │
-│  └── Interfaces modernas, responsivas e interativas         │
-│                                                              │
-│  BACKEND                                                     │
-│  └── APIs, autenticação, sessões e regras de negócio         │
-│                                                              │
-│  DATABASE                                                    │
-│  └── PostgreSQL, Supabase e modelagem de dados               │
-│                                                              │
-│  AUTOMATION                                                   │
-│  └── Scripts Python e integração com APIs                     │
-│                                                              │
-│  FULL STACK                                                   │
-│  └── Aplicações completas do frontend ao banco               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -360,11 +266,11 @@ Projetos utilizando Python para automação de tarefas e integração com APIs.
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  💼 Junior Developer Opportunities                           │
-│  🤝 Freelance Projects                                      │
-│  🚀 Collaboration                                           │
-│  📚 Open Source                                             │
-│  💡 New Projects                                            │
+│  🤝 Freelance & Full Stack Projects                          │
+│  🚀 Collaboration                                            │
+│  💼 Junior/Entry-Level Opportunities                         │
+│  📚 Open Source                                              │
+│  💡 New Products                                             │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
