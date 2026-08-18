@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=8C52FF&label=SYSTEM+VISITS" />
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&label=FOLLOWERS&color=4A00E0" />
-<img src="https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&logo=github&label=STARS&color=8C52FF" />
+<img src="https://komarev.com/ghpvc/?username=jonatascrus&style=for-the-badge&color=8C52FF&label=SYSTEM+VISITS" />
+<img src="https://img.shields.io/github/followers/jonatascrus?style=for-the-badge&logo=github&label=FOLLOWERS&color=4A00E0" />
+<img src="https://img.shields.io/github/stars/jonatascrus?style=for-the-badge&logo=github&label=STARS&color=8C52FF" />
 
 </div>
 
@@ -254,9 +254,9 @@ STATUS    :: ALWAYS_RUNNING
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050510&title_color=8C52FF&icon_color=8C52FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatascrus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050510&title_color=8C52FF&icon_color=8C52FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050510&title_color=8C52FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasccrus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050510&title_color=8C52FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -264,7 +264,7 @@ STATUS    :: ALWAYS_RUNNING
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=050510&ring=8C52FF&fire=8C52FF&currStreakLabel=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=jonatascrus&theme=tokyonight&hide_border=true&background=050510&ring=8C52FF&fire=8C52FF&currStreakLabel=FFFFFF" />
 
 </div>
 
@@ -274,7 +274,7 @@ STATUS    :: ALWAYS_RUNNING
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050510&color=FFFFFF&line=8C52FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonatascrus&bg_color=050510&color=FFFFFF&line=8C52FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -284,7 +284,7 @@ STATUS    :: ALWAYS_RUNNING
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=joantascrus&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -294,7 +294,7 @@ STATUS    :: ALWAYS_RUNNING
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jonatascrus/jonatascrus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -304,7 +304,7 @@ STATUS    :: ALWAYS_RUNNING
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/jonatascrus">
 <img src="https://img.shields.io/badge/GitHub-050510?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -312,7 +312,7 @@ STATUS    :: ALWAYS_RUNNING
 <img src="https://img.shields.io/badge/LinkedIn-050510?style=for-the-badge&logo=linkedin&logoColor=8C52FF" />
 </a>
 
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
+<a href="https://www.instagram.com/https://www.instagram.com/siqueira.cruzz//">
 <img src="https://img.shields.io/badge/Instagram-050510?style=for-the-badge&logo=instagram&logoColor=8C52FF" />
 </a>
 
